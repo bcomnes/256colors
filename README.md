@@ -10,4 +10,6 @@ Just run:
 $ 256colors
 ```
 
-for glorious a 256 color swatch.
+for a glorious 256 color swatch:
+
+![](https://cdn.rawgit.com/bcomnes/256colors/master/screenshot.png)
