@@ -1,0 +1,29 @@
+{
+  "name": "256colors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "./bin/256colors",
+  "preferGlobal": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcomnes/256colors.git"
+  },
+  "author": {
+    "name": "Bret Comnes",
+    "email": "bcomnes@gmail.com",
+    "url": "http://bret.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcomnes/256colors/issues"
+  },
+  "homepage": "https://github.com/bcomnes/256colors",
+  "dependencies": {
+    "ansi-256-colors": "^1.0.3",
+    "chalk": "^0.5.1"
+  }
+}
