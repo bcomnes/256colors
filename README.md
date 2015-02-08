@@ -6,7 +6,13 @@ Handy for checking if 256 color support is working properly.
 
 ## Example
 
-Just run:
+Install:
+
+```sh
+$ npm install -g 256colors
+```
+
+Then just run:
 
 ```sh
 $ 256colors
