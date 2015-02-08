@@ -1,6 +1,6 @@
 # 256colors
 
-A port of a 256colors.pl style 250 color ansi color swatch for your modern terminal.  Handy for checking for 256 color support.
+A port of a 256colors.pl style 250 color ansi color swatch for your modern terminal.  Handy for checking if 256 color support is working properly.
 
 ## Example
 
