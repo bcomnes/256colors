@@ -1,6 +1,7 @@
 # 256colors
 
 [![Build Status](https://travis-ci.org/bcomnes/256colors.svg)](https://travis-ci.org/bcomnes/256colors)
+[![Dependency Status](https://david-dm.org/bcomnes/256colors.svg)](https://david-dm.org/bcomnes/256colors)
 
 A port of a 256colors.pl style 256 ansi color swatch for your modern terminal.
 
