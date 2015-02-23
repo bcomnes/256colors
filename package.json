@@ -25,7 +25,7 @@
   "homepage": "https://github.com/bcomnes/256colors",
   "dependencies": {
     "ansi-256-colors": "^1.0.3",
-    "chalk": "^0.5.1"
+    "chalk": "^1.0.0"
   },
   "keywords": [
     "color",
