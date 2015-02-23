@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - '0.12'
+sudo: false # Enable docker based containers
+cache:
+  directories: # Cache npm install
+    - node_modules
