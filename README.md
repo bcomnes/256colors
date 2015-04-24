@@ -21,9 +21,6 @@
 [stable-img]: https://img.shields.io/badge/stability-2%20--%20stable-brightgreen.svg?style=flat-square
 [stability-url]: https://iojs.org/api/documentation.html#documentation_stability_index
 
-[![Build Status](https://travis-ci.org/bcomnes/256colors.svg)](https://travis-ci.org/bcomnes/256colors)
-[![Dependency Status](https://david-dm.org/bcomnes/256colors.svg)](https://david-dm.org/bcomnes/256colors)
-
 A port of a 256colors.pl style 256 ansi color swatch for your modern terminal.
 
 Handy for checking if 256 color support is working properly.
