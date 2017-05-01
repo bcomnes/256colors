@@ -1,5 +1,7 @@
 # 256colors
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/256colors.svg)](https://greenkeeper.io/)
+
 [![release][release-image]][release-url]
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
